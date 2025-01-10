@@ -1,0 +1,10 @@
+.DS_Store   # macOS system file
+*.swp       # Temporary files created by text editors
+
+secret_config.json
+credentials.env
+
+*.key       # Exclude all files ending with .key
+*.pem       # Exclude all files ending with .pem
+*.log       # Exclude all log files
+
