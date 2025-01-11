@@ -12,3 +12,8 @@ check if everything was installed as expected//
 - create  your app //
 
 ```python manage.py startapp api```
+
+- creating models 
+
+
+-  Views are pages you want to see ..//
