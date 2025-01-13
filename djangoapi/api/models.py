@@ -14,3 +14,4 @@ class Course(models.Model):
 
 
 # Create your models here.
+    
