@@ -46,4 +46,5 @@ check if everything was installed as expected//
 ] ```
 
 
-![image](https://github.com/user-attachments/assets/d5047b71-d639-4430-b6c7-68aa1994a726)
+-
+![image](https://github.com/user-attachments/assets/7106fd29-69d7-47d8-b8a1-89f522e18f77)
