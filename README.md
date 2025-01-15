@@ -1,6 +1,9 @@
 # API
 ## Create a Django Project
 
+- (add the rest_framework and app)
+- (create urls under app)
+ 
 ```django-admin startproject djangoapi```
 - add project under settings
 - migrate 
